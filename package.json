@@ -1,0 +1,36 @@
+{
+  "name": "project---i-offenses-",
+  "version": "1.0.0",
+  "description": "OFFENSES : Crime database",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Routes/ApiCreated.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSauravP/Project---I-offenses-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSauravP/Project---I-offenses-/issues"
+  },
+  "homepage": "https://github.com/KSauravP/Project---I-offenses-#readme",
+  "dependencies": {
+    "async": "^3.2.3",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-session": "^1.17.2",
+    "fetch": "^1.1.0",
+    "formidable": "^2.0.1",
+    "init": "^0.1.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^3.2.4",
+    "nodemon": "^2.0.16",
+    "uuid": "^3.3.3"
+  }
+}
